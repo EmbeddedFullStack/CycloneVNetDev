@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="127" />
+   <irq preferredWidth="34" />
+   <inputclock preferredWidth="228" />
+   <name preferredWidth="227" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Interface Protocols/Ethernet/Reference Design Components,Library/Interface Protocols/Ethernet/10G to 1G Multi-rate Ethernet,Library/Basic Functions,Library/Basic Functions/On Chip Memory,Project,Library,Library/Interface Protocols/Ethernet,Library/Interface Protocols,Library/Interface Protocols/Ethernet/1G Multi-rate Ethernet" />
+ <window width="2560" height="1419" x="0" y="21" />
+</preferences>
